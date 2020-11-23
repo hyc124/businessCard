@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f5ac40;
+      }
+    </style>
+  </defs>
+  <g id="组_4629" data-name="组 4629" transform="translate(-225 -279)">
+    <rect id="矩形_2802" data-name="矩形 2802" class="cls-1" width="20" height="20" transform="translate(225 279)"/>
+    <g id="组_4624" data-name="组 4624" transform="translate(5 -2)">
+      <path id="路径_4265" data-name="路径 4265" class="cls-2" d="M80.136,158.907l.917-.312.794,1.376-.726.638a3.207,3.207,0,0,1,0,1.337v-.021l.726.638-.794,1.376-.917-.329a3.16,3.16,0,0,1-1.14.658l-.188.949H77.221l-.191-.949a3.166,3.166,0,0,1-1.14-.658l-.917.312-.794-1.376.726-.638a3.08,3.08,0,0,1-.065-.65,3.233,3.233,0,0,1,.071-.679v.021l-.726-.638.794-1.376.914.32a3.148,3.148,0,0,1,1.137-.658l.191-.949h1.587l.191.949A3.148,3.148,0,0,1,80.136,158.907Zm-2.154,3.945a1.57,1.57,0,1,0-1.416-.764A1.57,1.57,0,0,0,77.982,162.852Z" transform="translate(156.356 132.03)"/>
+      <rect id="矩形_2804" data-name="矩形 2804" class="cls-2" width="17" height="2" rx="1" transform="translate(221 285)"/>
+      <rect id="矩形_2805" data-name="矩形 2805" class="cls-2" width="8" height="2" rx="1" transform="translate(221 290)"/>
+      <rect id="矩形_2806" data-name="矩形 2806" class="cls-2" width="8" height="2" rx="1" transform="translate(221 295)"/>
+    </g>
+  </g>
+</svg>

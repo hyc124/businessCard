@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #909399;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="组_4648" data-name="组 4648" transform="translate(-19.5 -1177)">
+    <rect id="矩形_2820" data-name="矩形 2820" class="cls-1" width="24" height="24" transform="translate(19.5 1177)"/>
+    <g id="组_4081" data-name="组 4081" transform="translate(8887 7024)">
+      <rect id="矩形_1712" data-name="矩形 1712" class="cls-2" width="23" height="18" rx="2" transform="translate(-8867 -5844)"/>
+      <g id="组_2180" data-name="组 2180" transform="translate(1 -0.5)">
+        <g id="组_2179" data-name="组 2179" transform="translate(-0.027 0.5)">
+          <circle id="椭圆_52" data-name="椭圆 52" class="cls-3" cx="2" cy="2" r="2" transform="translate(-8861 -5839)"/>
+          <path id="减去_22" data-name="减去 22" class="cls-3" d="M8.028,4h-8a4.211,4.211,0,0,1,4-4,4.211,4.211,0,0,1,4,4Z" transform="translate(-8863 -5835)"/>
+        </g>
+        <rect id="矩形_1714" data-name="矩形 1714" class="cls-3" width="4" height="1" transform="translate(-8853 -5838)"/>
+        <rect id="矩形_1715" data-name="矩形 1715" class="cls-3" width="4" height="1" transform="translate(-8853 -5835)"/>
+        <rect id="矩形_1716" data-name="矩形 1716" class="cls-3" width="4" height="1" transform="translate(-8853 -5832)"/>
+      </g>
+    </g>
+  </g>
+</svg>

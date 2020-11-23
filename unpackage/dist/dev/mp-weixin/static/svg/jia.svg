@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #909399;
+      }
+    </style>
+  </defs>
+  <g id="组_4614" data-name="组 4614" transform="translate(-0.136)">
+    <g id="组_4662" data-name="组 4662">
+      <g id="椭圆_326" data-name="椭圆 326">
+        <g id="组_4664" data-name="组 4664">
+          <circle id="椭圆_327" data-name="椭圆 327" class="cls-1" cx="13" cy="13" r="13" transform="translate(0.136)"/>
+        </g>
+        <g id="组_4665" data-name="组 4665">
+          <path id="路径_4301" data-name="路径 4301" class="cls-2" d="M13.136,26a13,13,0,1,1,13-13A13.014,13.014,0,0,1,13.136,26Zm0-24.5A11.5,11.5,0,1,0,24.636,13,11.513,11.513,0,0,0,13.136,1.5Z"/>
+        </g>
+      </g>
+      <path id="路径_4302" data-name="路径 4302" class="cls-2" d="M19.446,12.25h-5.56V6.69h-1.5v5.56H6.826v1.5h5.56v5.56h1.5V13.75h5.56Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "企业微信二维码",
+  "usingComponents": {
+    "u-skeleton": "/uview-ui/components/u-skeleton/u-skeleton",
+    "painter": "/wxcomponents/painter/painter"
+  }
+}

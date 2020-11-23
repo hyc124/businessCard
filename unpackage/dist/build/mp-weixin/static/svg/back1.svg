@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="40" viewBox="0 0 66 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0.3;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 0.5px;
+        opacity: 0.6;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.357" y1="-0.154" x2="0.104" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#71b747"/>
+      <stop offset="0.326" stop-color="#71b747"/>
+      <stop offset="0.464" stop-color="#71b747"/>
+      <stop offset="0.634" stop-color="#399e6f"/>
+      <stop offset="1" stop-color="#01648a"/>
+    </linearGradient>
+  </defs>
+  <g id="组_4074" data-name="组 4074" transform="translate(-15 -322)">
+    <g id="组_4061" data-name="组 4061" transform="translate(11346.595 7273.728)">
+      <g id="组_4058" data-name="组 4058" transform="translate(-11331.595 -6951.728)">
+        <rect id="矩形_2459" data-name="矩形 2459" class="cls-1" width="66" height="40" rx="4" transform="translate(0 0)"/>
+      </g>
+    </g>
+    <g id="组_4070" data-name="组 4070">
+      <rect id="矩形_2473" data-name="矩形 2473" class="cls-2" width="28" height="1" transform="translate(34 328)"/>
+      <rect id="矩形_2479" data-name="矩形 2479" class="cls-2" width="28" height="2" transform="translate(34 351)"/>
+      <rect id="矩形_2480" data-name="矩形 2480" class="cls-2" width="28" height="1" transform="translate(34 355)"/>
+      <rect id="矩形_2474" data-name="矩形 2474" class="cls-2" width="28" height="3" transform="translate(34 331)"/>
+      <rect id="矩形_2475" data-name="矩形 2475" class="cls-2" width="8" height="3" transform="translate(29 339)"/>
+      <rect id="矩形_2476" data-name="矩形 2476" class="cls-2" width="8" height="3" transform="translate(39 339)"/>
+      <rect id="矩形_2477" data-name="矩形 2477" class="cls-2" width="8" height="3" transform="translate(49 339)"/>
+      <rect id="矩形_2478" data-name="矩形 2478" class="cls-2" width="8" height="3" transform="translate(59 339)"/>
+      <line id="直线_96" data-name="直线 96" class="cls-3" x2="44" transform="translate(26 336.5)"/>
+    </g>
+  </g>
+</svg>

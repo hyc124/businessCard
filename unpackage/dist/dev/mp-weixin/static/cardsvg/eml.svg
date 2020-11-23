@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="7.071" viewBox="0 0 9 7.071">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <path id="路径_77" data-name="路径 77" class="cls-1" d="M64,171.8h7.2a.9.9,0,0,1,.9.873l-4.5,2.469-4.5-2.466A.891.891,0,0,1,64,171.8Zm-.9,1.821,0,4.366a.894.894,0,0,0,.9.883h7.2a.894.894,0,0,0,.9-.883v-4.368l-4.392,2.354a.226.226,0,0,1-.215,0Z" transform="translate(-63.1 -171.8)"/>
+</svg>

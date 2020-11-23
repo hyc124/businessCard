@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "海报",
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-skeleton": "/uview-ui/components/u-skeleton/u-skeleton",
+    "painter": "/wxcomponents/painter/painter",
+    "card": "/components/card/card"
+  }
+}

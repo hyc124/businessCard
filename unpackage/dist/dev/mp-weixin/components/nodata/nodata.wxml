@@ -1,0 +1,1 @@
+<view class="nodata flex flex-jus-center data-v-4bb7b1e4"><image src="../../static/svg/zanwu.svg" mode class="data-v-4bb7b1e4"></image><slot></slot></view>

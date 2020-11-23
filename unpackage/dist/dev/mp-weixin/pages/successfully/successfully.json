@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "card": "/components/card/card",
+    "painter": "/wxcomponents/painter/painter"
+  }
+}

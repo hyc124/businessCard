@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/guide/guide",
+    "pages/myCenter/index/index",
+    "pages/myCenter/record/record",
+    "pages/myCenter/edit/edit",
+    "pages/qycode/qycode",
+    "pages/code/code",
+    "pages/info/info",
+    "pages/card/card",
+    "pages/successfully/successfully",
+    "pages/friend/friend",
+    "pages/cardholder/cardholder",
+    "pages/groupings/groupings",
+    "pages/company/company",
+    "pages/poster/poster",
+    "pages/learning/learning"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "电子名片",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/card/card",
+        "iconPath": "static/img/BusCdHld.png",
+        "selectedIconPath": "static/img/BusCdHldSlt.png",
+        "text": "我的名片"
+      },
+      {
+        "pagePath": "pages/friend/friend",
+        "iconPath": "static/img/Wat-Mom.png",
+        "selectedIconPath": "static/img/Wat-Mom-Slt.png",
+        "text": "企业朋友圈"
+      },
+      {
+        "pagePath": "pages/cardholder/cardholder",
+        "iconPath": "static/img/My-Card.png",
+        "selectedIconPath": "static/img/My-Card-Slt.png",
+        "text": "名片夹"
+      }
+    ]
+  },
+  "usingComponents": {
+    "tab-bar": "/components/tabbars/tabbars"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="tabbars data-v-1f261db0"><u-tabbar bind:input="__e" vue-id="74c3cd54-1" hide-tab-bar="{{true}}" list="{{list}}" active-color="#0082EF" icon-size="40" value="{{tabbarNum}}" data-event-opts="{{[['^input',[['__set_model',['','tabbarNum','$event',[]]]]]]}}" class="data-v-1f261db0" bind:__l="__l"></u-tabbar></view>

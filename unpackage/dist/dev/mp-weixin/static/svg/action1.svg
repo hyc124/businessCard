@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="24" viewBox="0 0 22 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0082ef;
+      }
+    </style>
+  </defs>
+  <g id="组_4003" data-name="组 4003" transform="translate(-128 -128)">
+    <path id="路径_3040" data-name="路径 3040" d="M139.788,128H128v24h11.988v-2H130V130h8.791l7.193,5v5h2v-6Z" transform="translate(0 0)"/>
+    <path id="路径_3041" data-name="路径 3041" class="cls-1" d="M256,384h2.02v2.02H256Zm4.04,0h2.02v2.02h-2.02Zm4.04,0h2.02v2.02h-2.02ZM256,388.04h10.1v2.02H256Zm0,4.04h6.06v2.02H256Zm8.08,2.02h10.1v2.02h-10.1Z" transform="translate(-124.18 -248.08)"/>
+    <path id="路径_3042" data-name="路径 3042" class="cls-1" d="M642.02,576v10.1H640V576Z" transform="translate(-496.016 -434.1)"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="组件_19_2" data-name="组件 19 – 2" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #62c232;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_2685" data-name="矩形 2685" class="cls-1" width="30" height="30"/>
+  <path id="路径_3364" data-name="路径 3364" class="cls-2" d="M19.2,6.352a.435.435,0,0,1-.022-.535l.423-.605a.317.317,0,0,1,.468-.07l3.52,2.817a.421.421,0,0,0,.535-.023L33.142.09a.361.361,0,0,1,.49.023l.357.349a.348.348,0,0,1,0,.489l-9.914,10.2a.313.313,0,0,1-.468,0Z" transform="translate(-11.093 8.995)"/>
+</svg>

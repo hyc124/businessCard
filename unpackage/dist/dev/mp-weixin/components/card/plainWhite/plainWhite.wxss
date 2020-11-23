@@ -1,0 +1,163 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+/* 布局*/
+.flex.data-v-153b906a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-al-center.data-v-153b906a {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.flex-jus-center.data-v-153b906a {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.border1.data-v-153b906a {
+  position: relative;
+}
+.border1.data-v-153b906a::after {
+  content: " ";
+  width: 200%;
+  height: 2px;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  background: #000;
+  -webkit-transform: scale(0.5);
+  transform: scale(0.5);
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 1;
+}
+.flex-ju-between.data-v-153b906a {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.flex-ju-around.data-v-153b906a {
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.tap.data-v-153b906a:active {
+  opacity: 0.6;
+}
+.flex-col-bd.data-v-153b906a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.plainWhite.data-v-153b906a {
+  width: 690rpx;
+  height: 414rpx;
+  background: #FFFFFF;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
+  position: relative;
+  -webkit-box-shadow: -3rpx 6rpx 12rpx rgba(0, 0, 0, 0.2);
+          box-shadow: -3rpx 6rpx 12rpx rgba(0, 0, 0, 0.2);
+}
+.plainWhite .user-img.data-v-153b906a {
+  width: 128rpx;
+  height: 128rpx;
+  position: absolute;
+  top: 40rpx;
+  right: 32rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.plainWhite .plain-logo-title.data-v-153b906a {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  height: 34rpx;
+  line-height: 34rpx;
+  font-size: 24rpx;
+  padding: 46rpx 0 44rpx 48rpx;
+}
+.plainWhite .plain-logo-title .logo-img.data-v-153b906a {
+  width: 24rpx;
+  height: 28rpx;
+  margin-right: 12rpx;
+}
+.plainWhite .userinfo.data-v-153b906a {
+  height: 100rpx;
+  padding-left: 48rpx;
+  margin-bottom: 58rpx;
+  background: #F5F5F5;
+}
+.plainWhite .userinfo .user-name.data-v-153b906a {
+  font-size: 48rpx;
+  color: #333333;
+  line-height: 66rpx;
+}
+.plainWhite .userinfo .user-position.data-v-153b906a {
+  font-size: 20rpx;
+  color: #666666;
+  line-height: 28rpx;
+}
+.plainWhite .elegant-userdetails.data-v-153b906a {
+  width: 100%;
+  padding: 0 56rpx;
+}
+.plainWhite .elegant-userdetails .user-details.data-v-153b906a {
+  font-size: 18rpx;
+  color: #ffffff;
+}
+.plainWhite .elegant-userdetails .user-details view.data-v-153b906a {
+  margin-bottom: 16rpx;
+  line-height: 22rpx;
+  height: 22rpx;
+  color: #666666;
+}
+.plainWhite .elegant-userdetails .user-details .user-telephone image.data-v-153b906a {
+  height: 20rpx;
+  width: 17rpx;
+  margin-right: 12rpx;
+}
+.plainWhite .elegant-userdetails .user-details .user-mailbox image.data-v-153b906a {
+  height: 14rpx;
+  width: 18rpx;
+  margin-right: 10rpx;
+}
+.plainWhite .elegant-userdetails .user-details .user-address image.data-v-153b906a {
+  height: 20rpx;
+  width: 15rpx;
+  margin-right: 14rpx;
+  margin-left: 2rpx;
+}
+.plainWhite .elegant-userdetails .user-code.data-v-153b906a {
+  width: 48rpx;
+  height: 48rpx;
+  margin-top: 50rpx;
+  background: #ffffff;
+}
+

@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218.387" height="154.886" viewBox="0 0 218.387 154.886">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #e1f1ff;
+      }
+
+      .cls-2 {
+        opacity: 0.52;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #67acfc;
+      }
+
+      .cls-10, .cls-5 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #eff8ff;
+      }
+
+      .cls-6 {
+        fill: #7ac2ff;
+        font-size: 10px;
+        font-family: PingFangSC-Medium, PingFang SC;
+        font-weight: 500;
+      }
+
+      .cls-7 {
+        fill: #87b7ff;
+      }
+
+      .cls-8 {
+        fill: #0082ef;
+        opacity: 0.07;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        filter: url(#矩形_2434-2);
+      }
+
+      .cls-12 {
+        filter: url(#矩形_2434);
+      }
+
+      .cls-13 {
+        filter: url(#矩形_2353);
+      }
+    </style>
+    <filter id="矩形_2353" x="15.387" y="0" width="203" height="153" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#d9eeff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.862" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c2e9fb" stop-opacity="0.349"/>
+      <stop offset="1" stop-color="#a1c4fd"/>
+    </linearGradient>
+    <filter id="矩形_2434" x="40.387" y="54" width="32" height="32" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-color="#d6edff"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2434-2" x="40.387" y="84" width="32" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-3"/>
+      <feFlood flood-color="#d6edff"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="组_4046" data-name="组 4046" transform="translate(-77.613 -150)">
+    <g id="组_4014" data-name="组 4014" transform="translate(4156.814 5978.837)">
+      <g id="组_4010" data-name="组 4010" transform="translate(-4049 -5817)">
+        <g class="cls-13" transform="matrix(1, 0, 0, 1, -30.2, -11.84)">
+          <g id="矩形_2353-2" data-name="矩形 2353" class="cls-1" transform="translate(30.39 12)">
+            <rect class="cls-9" width="173" height="123" rx="8"/>
+            <rect class="cls-10" x="0.5" y="0.5" width="172" height="122" rx="7.5"/>
+          </g>
+        </g>
+        <rect id="矩形_2357" data-name="矩形 2357" class="cls-2" width="86" height="9" transform="translate(54.186 49.163)"/>
+        <rect id="矩形_2435" data-name="矩形 2435" class="cls-2" width="86" height="7" transform="translate(54.186 83.163)"/>
+        <g id="组_4011" data-name="组 4011" transform="translate(16.086 45.875)">
+          <g class="cls-12" transform="matrix(1, 0, 0, 1, -46.29, -57.71)">
+            <rect id="矩形_2434-3" data-name="矩形 2434" class="cls-3" width="20" height="20" rx="2" transform="translate(46.39 58)"/>
+          </g>
+          <path id="路径_2699" data-name="路径 2699" class="cls-4" d="M99.662,45.639H97.215c-2.3,0-4.124,0-4.124-1.171v-.241a4.1,4.1,0,0,1,4.124-4.061h2.447a4.1,4.1,0,0,1,4.124,4.061v.241C103.786,45.639,101.875,45.639,99.662,45.639Zm-1.346-5.782a3.218,3.218,0,1,1,3.266-3.218A3.246,3.246,0,0,1,98.316,39.857Z" transform="translate(-87.948 -29.181)"/>
+        </g>
+        <g id="组_4012" data-name="组 4012" transform="translate(16.086 76.26)">
+          <g class="cls-11" transform="matrix(1, 0, 0, 1, -46.29, -88.1)">
+            <rect id="矩形_2434-4" data-name="矩形 2434" class="cls-3" width="20" height="21" rx="2" transform="translate(46.39 88)"/>
+          </g>
+          <path id="路径_2699-2" data-name="路径 2699" class="cls-4" d="M99.662,45.639H97.215c-2.3,0-4.124,0-4.124-1.171v-.241a4.1,4.1,0,0,1,4.124-4.061h2.447a4.1,4.1,0,0,1,4.124,4.061v.241C103.786,45.639,101.875,45.639,99.662,45.639Zm-1.346-5.782a3.218,3.218,0,1,1,3.266-3.218A3.246,3.246,0,0,1,98.316,39.857Z" transform="translate(-87.948 -29.101)"/>
+        </g>
+      </g>
+      <line id="直线_90" data-name="直线 90" class="cls-5" x2="160.866" transform="translate(-4041.412 -5784.119)"/>
+      <text id="通讯录" class="cls-6" transform="translate(-4031.814 -5796.837)"><tspan x="0" y="0">通讯录</tspan></text>
+    </g>
+    <g id="组_4016" data-name="组 4016" transform="translate(48.622 169.122)">
+      <g id="组_4015" data-name="组 4015" transform="translate(66.467 164.755) rotate(-135)">
+        <path id="减去_24" data-name="减去 24" class="cls-7" d="M47,0A47.013,47.013,0,0,0,28.706,90.307,47.012,47.012,0,0,0,65.294,3.693,46.706,46.706,0,0,0,47,0Zm0,87A40,40,0,1,1,87,47,40.046,40.046,0,0,1,47,87Z" transform="translate(0 45)"/>
+        <rect id="矩形_2436" data-name="矩形 2436" class="cls-7" width="6" height="25" transform="translate(44 26)"/>
+        <rect id="矩形_2437" data-name="矩形 2437" class="cls-7" width="12" height="35" rx="5" transform="translate(41 0)"/>
+      </g>
+      <circle id="椭圆_120" data-name="椭圆 120" class="cls-8" cx="40" cy="40" r="40" transform="translate(98.288 123.036) rotate(-135)"/>
+    </g>
+  </g>
+</svg>

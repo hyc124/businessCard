@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 1.2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_3841" data-name="组 3841" transform="translate(-235.437 -615.368)">
+    <g id="椭圆_77" data-name="椭圆 77" class="cls-1" transform="translate(235.437 615.368)">
+      <circle class="cls-3" cx="10" cy="10" r="10"/>
+      <circle class="cls-4" cx="10" cy="10" r="9.4"/>
+    </g>
+    <path id="路径_2424" data-name="路径 2424" class="cls-2" d="M123.864,124.215H118.94a.616.616,0,1,0,0,1.231h4.924a.616.616,0,1,0,0-1.231Zm-2.461-8.309a.616.616,0,0,0-.615.616l0,5.044-1.862-1.862a.616.616,0,1,0-.871.871l2.829,2.829a.613.613,0,0,0,.41.18h.081a.614.614,0,0,0,.411-.18l2.829-2.829.036-.039a.616.616,0,0,0-.036-.831l-.039-.036a.616.616,0,0,0-.831.036l-1.727,1.727,0-4.909,0-.046A.616.616,0,0,0,121.4,115.906Z" transform="translate(123.964 504.491)"/>
+  </g>
+</svg>

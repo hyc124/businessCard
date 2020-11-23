@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "friend": "/components/friend/friend",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "tips": "/components/tips/tips",
+    "painter": "/wxcomponents/painter/painter"
+  }
+}

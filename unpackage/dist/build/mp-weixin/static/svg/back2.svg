@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="40" viewBox="0 0 66 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #303133;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <g id="组_4075" data-name="组 4075" transform="translate(-96 -322)">
+    <g id="组_4066" data-name="组 4066">
+      <rect id="矩形_2841" data-name="矩形 2841" class="cls-1" width="66" height="40" rx="4" transform="translate(96 322)"/>
+      <path id="联合_59" data-name="联合 59" class="cls-2" d="M5623,1895v-12h12v12Zm-39,0v-2h34v2Zm0-5v-2h34v2Zm0-5v-2h34v2Zm0-13a4,4,0,1,1,4,4A4,4,0,0,1,5584,1872Zm11,3v-5h14v5Zm29-2v-1h11v1Z" transform="translate(-5480 -1540)"/>
+    </g>
+  </g>
+</svg>

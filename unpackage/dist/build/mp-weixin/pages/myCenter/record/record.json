@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "访问记录",
+  "usingComponents": {
+    "u-tabs-swiper": "/uview-ui/components/u-tabs-swiper/u-tabs-swiper",
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "u-calendar": "/uview-ui/components/u-calendar/u-calendar",
+    "info": "/pages/myCenter/record/components/info/info"
+  }
+}

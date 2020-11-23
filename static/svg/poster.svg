@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0082ef;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="组_4033" data-name="组 4033" transform="translate(-244 -505)">
+    <circle id="椭圆_122" data-name="椭圆 122" class="cls-1" cx="28" cy="28" r="28" transform="translate(244 505)"/>
+    <g id="组_4031" data-name="组 4031" transform="translate(-1)">
+      <rect id="矩形_2449" data-name="矩形 2449" class="cls-2" width="22" height="24" rx="2" transform="translate(262 521)"/>
+      <g id="组_4030" data-name="组 4030" transform="translate(-0.776 -0.242)">
+        <g id="组_2179" data-name="组 2179" transform="translate(268 524)">
+          <circle id="椭圆_52" data-name="椭圆 52" class="cls-1" cx="2.888" cy="2.888" r="2.888" transform="translate(2.848 0)"/>
+          <path id="减去_22" data-name="减去 22" class="cls-1" d="M12,6H0A6.316,6.316,0,0,1,6,0a6.316,6.316,0,0,1,6,6Z" transform="translate(-0.224 6.243)"/>
+        </g>
+        <rect id="矩形_2450" data-name="矩形 2450" class="cls-1" width="12" height="1" transform="translate(267.776 538.242)"/>
+        <rect id="矩形_2451" data-name="矩形 2451" class="cls-1" width="12" height="1" transform="translate(267.776 541.242)"/>
+      </g>
+    </g>
+  </g>
+</svg>

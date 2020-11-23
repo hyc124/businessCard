@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-switch": "/uview-ui/components/u-switch/u-switch",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u-modal": "/uview-ui/components/u-modal/u-modal",
+    "painter": "/wxcomponents/painter/painter"
+  }
+}

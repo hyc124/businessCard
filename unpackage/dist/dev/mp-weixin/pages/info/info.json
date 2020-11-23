@@ -1,0 +1,17 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "card": "/components/card/card",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-loading": "/uview-ui/components/u-loading/u-loading",
+    "u-divider": "/uview-ui/components/u-divider/u-divider",
+    "u-modal": "/uview-ui/components/u-modal/u-modal",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "tips": "/components/tips/tips",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips",
+    "painter": "/wxcomponents/painter/painter"
+  }
+}

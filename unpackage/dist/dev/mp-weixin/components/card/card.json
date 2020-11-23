@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "personality-color": "/components/card/personalityColor/personalityColor",
+    "elegant-black": "/components/card/elegantBlack/elegantBlack",
+    "plain-white": "/components/card/plainWhite/plainWhite",
+    "card-popup": "/components/card/cardpopup"
+  }
+}

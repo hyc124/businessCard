@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "编辑名片",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "card": "/components/card/card",
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "choice": "/components/choice/choice",
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips",
+    "painter": "/wxcomponents/painter/painter"
+  }
+}

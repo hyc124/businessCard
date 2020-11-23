@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #f5ac40;
+      }
+
+      .cls-2 {
+        stroke: #f5ac40;
+        stroke-width: 0.6px;
+      }
+    </style>
+  </defs>
+  <g id="组_4627" data-name="组 4627" transform="translate(-225 -197)">
+    <rect id="矩形_2800" data-name="矩形 2800" class="cls-1" width="20" height="20" transform="translate(225 197)"/>
+    <g id="组_4622" data-name="组 4622" transform="translate(-67.893 27.88)">
+      <g id="组_4219" data-name="组 4219" transform="translate(294.864 170.12)">
+        <path id="路径_3370" data-name="路径 3370" class="cls-2" d="M61.249,14.415a8.119,8.119,0,0,0,2.838-6.243,8.116,8.116,0,1,0-8.116,8.172,8.061,8.061,0,0,0,4.2-1.192L62.951,18.1a.444.444,0,0,0,.454.057l.454-.4a.28.28,0,0,0,.057-.4Zm-12.372-6.3a7.151,7.151,0,1,1,7.151,7.151A7.121,7.121,0,0,1,48.877,8.116Z" transform="translate(-47.855)"/>
+      </g>
+      <g id="组_4400" data-name="组 4400" transform="translate(297.922 175.124)">
+        <path id="联合_53" data-name="联合 53" class="cls-3" d="M6.369,6.3H0a3.335,3.335,0,0,1,3.185-3.15A3.335,3.335,0,0,1,6.37,6.3h0Zm-4.8-4.726a1.593,1.593,0,0,1,3.186,0,1.593,1.593,0,0,1-3.186,0Z" transform="translate(0)"/>
+      </g>
+      <path id="联合_55" data-name="联合 55" class="cls-3" d="M.5,2.95a.5.5,0,1,1,0-1H3.394a.5.5,0,0,1,0,1ZM.5,1a.5.5,0,1,1,0-1H3.394a.5.5,0,0,1,0,1Z" transform="translate(304.128 176.77)"/>
+    </g>
+  </g>
+</svg>

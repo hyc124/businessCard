@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="11" viewBox="0 0 11 11">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #dfd1b7;
+        stroke-width: 0.2px;
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        filter: url(#椭圆_130);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.485" cy="0.404" r="0.592" gradientTransform="translate(0.625 -0.211) rotate(63.08)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c7b08a"/>
+      <stop offset="0.677" stop-color="#e6ddcc"/>
+      <stop offset="0.967" stop-color="#e6e1d5"/>
+      <stop offset="1" stop-color="#dcd8d0"/>
+    </radialGradient>
+    <filter id="椭圆_130" x="0" y="0" width="11" height="11" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-4" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <g id="椭圆_130-2" data-name="椭圆 130" class="cls-1" transform="translate(1.5 0.5)">
+      <circle class="cls-2" cx="4" cy="4" r="4"/>
+      <circle class="cls-3" cx="4" cy="4" r="3.9"/>
+    </g>
+  </g>
+</svg>

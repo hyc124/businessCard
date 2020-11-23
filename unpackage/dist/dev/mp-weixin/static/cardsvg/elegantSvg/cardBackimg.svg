@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="345" height="207" viewBox="0 0 345 207">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        opacity: 0.55;
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.015" x2="0.994" y2="0.988" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5d5e73"/>
+      <stop offset="1" stop-color="#383b46"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="矩形_2189" data-name="矩形 2189" class="cls-1" d="M8,0H337a8,8,0,0,1,8,8v95a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(21 28)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0.513" y1="0.1" x2="0.508" y2="1.063" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#565463"/>
+      <stop offset="1" stop-color="#3b3e4a"/>
+    </linearGradient>
+  </defs>
+  <g id="组_4715" data-name="组 4715" transform="translate(-21 -28)">
+    <rect id="矩形_1" data-name="矩形 1" class="cls-1" width="345" height="207" rx="8" transform="translate(21 28)"/>
+    <path id="矩形_2180" data-name="矩形 2180" class="cls-1" d="M8,0H337a8,8,0,0,1,8,8v95a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(21 28)"/>
+    <g id="蒙版组_2" data-name="蒙版组 2" class="cls-2">
+      <path id="路径_4464" data-name="路径 4464" class="cls-3" d="M.2,88.386l34.043,41.377L20.6,88.386Zm24.094,0,12.053,41.461L46.722,88.386Zm13.887,41.377L70.958,88.386H50.722ZM71.033,85.678,61.208,69.229,51.375,85.678ZM58.118,68.288H38.464L48.289,85.3ZM45.27,85.678,35.441,69.229,25.612,85.678ZM32.564,68.288H12.915L22.74,85.3Zm-22.74.941L0,85.678H19.654Z" transform="translate(270.483 12.712)"/>
+    </g>
+  </g>
+</svg>

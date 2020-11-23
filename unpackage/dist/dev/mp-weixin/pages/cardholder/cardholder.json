@@ -1,0 +1,16 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "u-dropdown": "/uview-ui/components/u-dropdown/u-dropdown",
+    "u-dropdown-item": "/uview-ui/components/u-dropdown-item/u-dropdown-item",
+    "u-swipe-action": "/uview-ui/components/u-swipe-action/u-swipe-action",
+    "card": "/components/card/card",
+    "nodata": "/components/nodata/nodata",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u-modal": "/uview-ui/components/u-modal/u-modal",
+    "painter": "/wxcomponents/painter/painter"
+  }
+}

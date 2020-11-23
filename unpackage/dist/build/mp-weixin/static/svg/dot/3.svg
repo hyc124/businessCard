@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #dfd1b7;
+        stroke-width: 0.2px;
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.485" cy="0.404" r="0.592" gradientTransform="translate(0.625 -0.211) rotate(63.08)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c7b08a"/>
+      <stop offset="0.73" stop-color="#e6ddcc"/>
+      <stop offset="0.967" stop-color="#e6e1d5"/>
+      <stop offset="1" stop-color="#dcd8d0"/>
+    </radialGradient>
+  </defs>
+  <g id="椭圆_128" data-name="椭圆 128" class="cls-1">
+    <circle class="cls-2" cx="6" cy="6" r="6"/>
+    <circle class="cls-3" cx="6" cy="6" r="5.9"/>
+  </g>
+</svg>
